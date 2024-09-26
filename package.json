@@ -1,0 +1,12 @@
+{
+  "name": "comp_3104_labs",
+  "version": "1.0.0",
+  "description": "I did not see it changes on my remote side, so I edit more for making if I  can do it successfully! # COMP_3104_LABS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
